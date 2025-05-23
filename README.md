@@ -69,7 +69,7 @@
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="[www.linkedin.com/in/joud-senan-99245b298](https://www.linkedin.com/in/joud-senan-99245b298/)" target="_blank">
+  <a href="https://www.linkedin.com/in/joud-senan-99245b298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jas53@mail.aub.edu" target="_blank">
