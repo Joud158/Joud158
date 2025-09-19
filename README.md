@@ -33,10 +33,13 @@
 ### 🎨 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,verilog,html,css,git,bash,vscode,jupyter,docker,sql,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,bash,git,github,vscode,docker,linux&theme=light" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Verilog-purple?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt5-5C4EE5?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Chainlit-4B0082?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logoColor=white" />
