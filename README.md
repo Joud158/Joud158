@@ -33,11 +33,15 @@
 ### 🎨 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,bash,react,nodejs,html,css,git,github,vscode,figma,c,assembly&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,verilog,html,css,git,bash,vscode,jupyter,docker,sql,linux&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog-purple?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt5-5C4EE5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlit-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral%20AI-FF6F61?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA%203-8E44AD?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/FPGA-9F55FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Vivado-8E44AD?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/RISC--V-6C3483?style=for-the-badge&logo=riscv&logoColor=white" />
