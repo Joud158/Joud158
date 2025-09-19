@@ -62,6 +62,8 @@
 - 👩‍💻 **Research ChartCompleteQA** — Volunteered in a research project at AUB about the effectiveness of AI in analysing scientific charts and graphs.
 - 💻 **AUBoutique** — Network Programming Project to join sellers and buyers.
 - 🤖 **StudyWise** — A website developed to be an ai bot that assists students and trained on medical dataset - developed in 3 different ways ( I was responsible of the ML part in the project and had the chance to present it in Amazon mentorship program at AUB ).
+- 🧪 AraSTEM – Chart Comprehension Research — Developed AI methods for understanding STEM charts and graphs, improving dataset quality for visual question answering tasks at AUB.
+- 🤖 Mistral AI Web App — Built an AI-powered backend using Mistral models and FastAPI, enabling scalable question-answering and content generation; showcased at All-Girls Code Bootcamp 2025.
 
 💡 More at [github.com/Joud158](https://github.com/Joud158)
 
