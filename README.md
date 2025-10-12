@@ -19,17 +19,6 @@
 
 ---
 
-<details>
-  <summary><b>✨ GitHub Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Joud158&show_icons=true&theme=purple&hide=contribs,prs,issues&hide_border=true" alt="GitHub Stats"/>
-  </p>
-</details>
-
-
----
-
 ### 🎨 Languages & Tools
 
 <p align="center">
