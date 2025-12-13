@@ -60,6 +60,11 @@
 - 🤖 **StudyWise** — A website developed to be an ai bot that assists students and trained on medical dataset - developed in 3 different ways ( I was responsible of the ML part in the project and had the chance to present it in Amazon mentorship program at AUB ).
 - 🧪 AraSTEM – Chart Comprehension Research — Developed AI methods for understanding STEM charts and graphs, improving dataset quality for visual question answering tasks at AUB.
 - 🤖 Mistral AI Web App — Built an AI-powered backend using Mistral models and FastAPI, enabling scalable question-answering and content generation; showcased at All-Girls Code Bootcamp 2025.
+- 👁️‍🗨️ Guided Vision — An edge-AI assistive system deployed on Raspberry Pi that uses computer vision and on-device machine learning to detect real-world hazards and provide real-time audio guidance for visually impaired users.
+- 🧪 PolyLab — A full-stack, security-focused educational platform combining a FastAPI backend and a modern web frontend to support authentication, classroom workflows, and interactive learning tools.
+- 📊 Smart Business Insights (Hackathon) — A data-driven analytics solution developed during a hackathon that transforms business data into actionable insights using automated analysis and interactive visualizations.
+- 🛡️ Ethical Hacking I – Notes — A structured collection of hands-on notes covering core penetration testing concepts and tools, including reconnaissance, scanning, exploitation, and reporting.
+- 🏴‍☠️ CTF – Theta Machine — A capture-the-flag challenge walkthrough focused on systematic enumeration, vulnerability exploitation, and privilege escalation in a controlled lab environment.
 
 💡 More at [github.com/Joud158](https://github.com/Joud158)
 
