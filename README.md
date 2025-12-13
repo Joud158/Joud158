@@ -12,7 +12,7 @@
 
 ### 💫 About Me:
 - 🎓 Majoring in Computer Science and Engineering at the American University of Beirut  
-- 💻 Following Cyber Security track  
+- 💻 Following AI and Cyber Security tracks  
 - 🏆 Always proving academic excellence!
 - 🌌 Deeply fascinated by the mysteries of space, the complex beauty of physics and mathematics, and the boundless innovation in aerospace and networking technologies. Whether it's unraveling cosmic phenomena or optimizing data flow through networks, I love exploring the intersection of science, technology, and the universe.  
 - ⚡ Believing with: "Code the stars you want to orbit. Build the gravity that pulls your dreams closer."   
