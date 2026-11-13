@@ -3,10 +3,13 @@
 </p>
 
 <p align="center">
-  <strong>Artificial Intelligence & Cybersecurity</strong><br>
-  <a href="https://www.linkedin.com/in/joud-senan-99245b298/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:jas53@mail.aub.edu">Email</a> &nbsp; / &nbsp;
-  <a href="https://github.com/Joud158?tab=repositories">Repositories</a>
+  <strong>Artificial Intelligence & Cybersecurity</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joud-senan-99245b298/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:jas53@mail.aub.edu"><img src="https://img.shields.io/badge/Email-9F55FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Joud158?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 </p>
 
 ---
@@ -91,4 +94,8 @@ Outside engineering, I'm interested in space, physics, mathematics, and aerospac
 <p align="center">
   Open to conversations about AI, research, and software.<br>
   <a href="mailto:jas53@mail.aub.edu">jas53@mail.aub.edu</a>
+</p>
+
+<p align="center">
+  <img src="./assets/purple-wave.svg" width="100%" alt="Purple wave footer" />
 </p>
